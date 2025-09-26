@@ -5,7 +5,7 @@ Install ROS2
 Download the script (or if you installed git, clone this repository with the following command:
 
 ```bash
-git clone https://github.com/UW-MTE544/MTE544_student.git 
+git clone https://github.com/PeterWANGHK/DASE7505_student.git
 ```
 then change the branch to 
 ```bash
