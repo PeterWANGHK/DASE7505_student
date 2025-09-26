@@ -9,7 +9,7 @@ git clone https://github.com/PeterWANGHK/DASE7505_student.git
 ```
 then change the branch to setup with 
 ```bash
-git checkout setup)
+git checkout setup
 ```
 Run the script to install the relevant packages for ROS development:
 ```bash
