@@ -1,2 +1,7 @@
-# DASE7505_student
-This repo is made to help the students make a complete mobile robot stack from scratch. The course is covered in DASE7505 at the University of Hong Kong taught by Prof. Chen Sun..
+# DASE7505 Intelligent Unmanned Systems: ROS Setup
+
+Install ROS2
+
+Download the script (or if you installed git, clone this repository with git clone https://github.com/UW-MTE544/MTE544_student.git, then change the branch to setup with git checkout setup)
+
+Run the script (it needs sudo privilege, so you will need to type in your password when prompted):
