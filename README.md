@@ -120,7 +120,7 @@ In simulation with TurtleBot3:
 You do not have to map the entire room, just a sufficient area to see a portion of the map.
 
 
-## Conclusions - Written report
+## Submission - Lab Report
 You can do this part in the lab (time allowing) or at home.
 
 Please prepare a written report containing in the front page:
