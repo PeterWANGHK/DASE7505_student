@@ -1,4 +1,4 @@
-# LAB 1 - Sensor data processing for mobile robots
+# Lab - Sensor data processing for mobile robots
 
 ### Participants will be able to:
 - Interact with sensors.
