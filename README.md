@@ -52,7 +52,6 @@ In this part, you need to implement 3 different motions for the robot:
 
 Follow the comments in ```motions.py``` to implement these motions for the robot, there is one function for each of these motions. 
 
-For real robots, you will need to tune your robot's motion parameters to make sure it fits into the classroom space.
 
 ## Part 3 - Implement the data reading and logging
 To read from the sensors (IMU, Lidar, wheel encoders), you need to:
