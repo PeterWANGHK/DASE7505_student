@@ -1,2 +1,2 @@
 # DASE7505_student
-This repo is made to help the students make a complete mobile robot stack from scratch. The course is covered in DASE7505 at the University of Hong Kong taught by Prof. Chen Sun..
+This repo is for the ROS lab exercise of course titled "DASE7505: Intelligent Unmanned Systems" at the Department of Data and Systems Engineering, The University of Hong Kong, taught by Prof. Chen Sun
