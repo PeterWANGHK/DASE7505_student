@@ -41,7 +41,7 @@ class motion_executioner(Node):
         
         # TODO Part 3: Create a publisher to send velocity commands by setting the proper parameters in (...)
         self.vel_publisher=self.create_publisher(...)
-                
+        # syntax: self.create_publisher(MessageType, 'topic_name', queue_size)      
         # loggers
         self.imu_logger=Logger('imu_content_'+str(motion_types[motion_type])+'.csv', headers=["acc_x", "acc_y", "angular_z", "stamp"])
         self.odom_logger=Logger('odom_content_'+str(motion_types[motion_type])+'.csv', headers=["x","y","th", "stamp"])
