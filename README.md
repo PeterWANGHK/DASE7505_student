@@ -1,8 +1,5 @@
 # LAB 1 - Sensor data processing for mobile robots
 
-## Introduction
-
-Welcome to LAB 1 of the mobile robotics course! In this lab, participants will gain hands-on experience with mobile robots and acquire knowledge about their basic functionalities. By the end of this lab, 
 ### Participants will be able to:
 - Interact with sensors.
 - Understand the pipeline of ros2 or any middleware.
