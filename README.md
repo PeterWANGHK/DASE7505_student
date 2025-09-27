@@ -121,14 +121,15 @@ You do not have to map the entire room, just a sufficient area to see a portion 
 
 
 ## Submission - Lab Report
-You can do this part in the lab (time allowing) or at home.
+Please prepare a written report in pdf format containing in the front page:
+•	Names (Family Name, First Name)
+•	UID
+report the following:
+•	Screenshots of your ROS setup, program testing in Gazebo and Rviz, etc (follow the steps in this lab sheet).
+•	Screenshots of running the TurtleBot in house environment and the map you obtained (freely run your robot in the house)
+•	Your filled-in python codes (motion.py and utilities.py) with explanations.
+•	A brief discussion to show your understanding of the sensor information. Hint: you may leverage on the course material and the online documentation of the messages to better interpret your data.
+There are no minimum page limit and the format requirements, but a more professional report could contribute to a higher mark for this lab exercise.
+Deadline: check the announcements in HKU Moodle.
 
-Please prepare a written report containing in the front page:
-- Names (Family Name, First Name)
-- UID
-
-In a maximum of 2 pages (excluding the front page), report the following:
-- The plots you obtained. The plots should have, title, label name for axis, legends, different shapes/colors for each data, and grids.
-- A screenshot of your obtained map.
-- A brief explanation of the obtained plots (can be in the figure captions), and a brief discussion (interpretation, quality, etc) to show your understanding of the sensor information. *Hint*: you may leverage on the course material and the online documentation of the messages to better interpret your data.
 
