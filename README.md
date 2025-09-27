@@ -80,7 +80,7 @@ report the following:
 - Screenshots of running the TurtleBot in house environment and the map you obtained (freely run your robot in the house)
 - Your filled-in python codes (motion.py and utilities.py) with explanations.
 - A brief discussion to show your understanding of the sensor information. Hint: you may leverage on the course material and the online documentation of the messages to better interpret your data.
-# There are no minimum page limit or format requirements, but a more professional report could contribute to a higher mark for this lab exercise.
-# Deadline: check the announcements in HKU Moodle.
+## There are no minimum page limit or format requirements, but a more professional report could contribute to a higher mark for this lab exercise.
+## Deadline: check the announcements in HKU Moodle.
 
 
