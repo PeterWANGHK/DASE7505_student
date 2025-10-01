@@ -1,4 +1,4 @@
-# DASE7505 Intelligent Unmanned Systems: ROS Setup
+# ROS Setup
 
 Install ROS2
 
