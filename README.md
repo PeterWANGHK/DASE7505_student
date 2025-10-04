@@ -64,7 +64,7 @@ Test all motion sequences.
 
 
 ## Submission - Lab Report
-Please prepare a written report in pdf format containing in the front page:
+Please prepare a written report in pdf format containing personal details in the front page:
 - Names (Family Name, First Name)
 - UID
 
