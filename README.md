@@ -1,2 +1,13 @@
 # Lab - Closed loop control of mobile robots
 ## Introduction
+
+## Submission - Lab Report
+Please prepare a written report in pdf format containing personal details in the front page:
+- Names (Family Name, First Name)
+- UID
+
+report the following:
+- Your filled-in python codes with explanations.
+- A brief discussion to show your understanding of the sensor information. Hint: you may leverage on the course material and the online documentation of the messages to better interpret your data.
+## There are no minimum page limit or format requirements, but a more professional report could contribute to a higher mark for this lab exercise.
+## Deadline: check the announcements in HKU Moodle.
