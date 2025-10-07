@@ -1,5 +1,5 @@
-# DASE7505 Intelligent Unmanned Systems (MSc course, starting 2025 Fall)
-## Department of Data and Systems Engineering, The University of Hong Kong
-This repo contains the lab sheets and related resources for lab sessions available for students taking DASE7505 taught by Prof. Chen Sun. <br />
-In this repo, different lab exercises are accessible in different branches (setup, LabOne, etc). You may change the branch to respective exercises and access the materials.
-## This repo is under continuously updating. Any technical issues or bugs found please contact via email to peterwang.dase@connect.hku.hk
+# Lab - Closed loop control of mobile robots
+## Introduction
+Welcome to LAB 2 of the mobile robotics course! Here, you start shaping the overall structure of your mobile robot stack. Please check again the architecture provided in the README.md in the main branch and leave that open on your web browser.
+
+In this lab, Participants will gain hands-on experience with mobile robots and acquire knowledge about their basic functionalities. By the end of this lab, participants will be able to:
