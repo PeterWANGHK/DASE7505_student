@@ -24,6 +24,7 @@ Please prepare a written report in pdf format containing personal details in the
 
 report the following:
 - Your updated codes with explanations (i.e., how the parameters change the performance accordingly?)
-- A brief discussion to show your understanding of the closed loop control. Hint: you may leverage on the course material and the online documentation of the messages to better interpret your data.
+- A brief discussion to show your understanding of the closed loop control. Hint: you may leverage on the course material and the online documentation of PID control to better interpret your elaborations.
 ## There are no minimum page limit or format requirements, but a more professional report could contribute to a higher mark for this lab exercise.
 ## Deadline: check the announcements in HKU Moodle.
+
