@@ -1,5 +1,5 @@
 # DASE7505 Intelligent Unmanned Systems (MSc course, starting 2025 Fall)
 ## Department of Data and Systems Engineering, The University of Hong Kong
-This repo contains the lab sheets and related resources for lab sessions available for students taking DASE7505 taught by Prof. Chen Sun. <br />
-In this repo, different lab exercises are accessible in different branches (setup, LabOne, etc). You may change the branch to respective exercises and access the materials.
-## This repo is under continuously updating. Any technical issues or bugs found please contact via email to peterwang.dase@connect.hku.hk
+This repository contains the lab sheets and related resources for lab sessions available to students taking DASE7505, taught by Prof. Chen Sun. <br />
+In this repository, various lab exercises are available in different branches (e.g., setup, LabOne). You may change the branch to the respective exercises and access the materials.
+## This repo is under continuous updating. Any technical issues, bugs found, and constructive feedback, please contact via email to peterwang.dase@connect.hku.hk
