@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-In this lab, Participants will gain hands-on experience with mobile robots and acquire knowledge about their basic functionalities. By the end of this lab, participants will be able to:
+By the end of this lab, participants will be able to:
 - Use the position data in a controller;
 - Control a mobile robot using a tunable PID controller.
 - Implement pure pursuit controller
@@ -27,4 +27,5 @@ report the following:
 - A brief discussion to show your understanding of the closed loop control. Hint: you may leverage on the course material and the online documentation of PID control to better interpret your elaborations.
 ## There are no minimum page limit or format requirements, but a more professional report could contribute to a higher mark for this lab exercise.
 ## Deadline: check the announcements in HKU Moodle.
+
 
