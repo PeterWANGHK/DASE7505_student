@@ -90,13 +90,14 @@ class PID_ctrl:
         
         
         if self.type == P:
-            return self.kp * latest_error
+            return #(.....)
         
         elif self.type == PD:
-            return self.kp * latest_error + self.kv * error_dot
+            return #(.....)
         
         elif self.type == PI:
-            return self.kp * latest_error +  self.ki * error_int
+            return #(.....)
         
         elif self.type == PID: 
-            return self.kp * latest_error + self.kv * error_dot + self.ki * error_int
+            return #(.....)
+
