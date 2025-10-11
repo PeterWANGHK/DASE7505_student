@@ -23,11 +23,12 @@ Please prepare a written report in pdf format containing personal details in the
 - UID
 
 report the following:
-- How PID is capable of controlling robotic systems? Prepare a simple review with academic references (don’t be too long, and don’t generate fake references by GenAI).
+- How PID is capable of controlling robotic systems? Prepare a simple review with academic references (don’t be too long, and don’t generate review directly by GenAI with fake references).
 - Your updated codes with explanations (i.e., how the parameters change the performance accordingly?)
 - A brief discussion to show your understanding of the closed loop control. Hint: you may leverage on the course material and the online documentation of PID control to better interpret your elaborations.
 ## There are no minimum page limit or format requirements, but a more professional report could contribute to a higher mark for this lab exercise.
 ## Deadline: check the announcements in HKU Moodle.
+
 
 
 
