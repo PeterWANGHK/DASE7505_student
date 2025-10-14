@@ -23,12 +23,13 @@ Please prepare a written report in pdf format containing personal details in the
 - UID
 
 Report the following:
-- Your filled-in python codes with explanations (i.e., how the parameters change the performance accordingly?)
+- Your filled-in python codes with explanations
 - A brief discussion to show your understanding of the closed loop control and PID for robotics (e.g., architecture map/flowchart of different python programs provided in this lab repo; questions highlighted in step-by-step instructions) Hint: you may leverage on the course material and the online documentation of the messages to better interpret your data.
 
 
 ## There are no minimum page limit or format requirements, but a more professional report could contribute to a higher mark for this lab exercise.
 ## Deadline: check the announcements in HKU Moodle.
+
 
 
 
